@@ -27,8 +27,8 @@ Implement class `Sorter` with next methods:
   sorter.add(2);
   sorter.add(1);
 
-  console.log(sorter.length) // 2
-  console.log(sorter.toArray()) // [2, 1]
+  conlength) // 2
+  console.log(sole.log(sorter.sorter.toArray()) // [2, 1]
 
   sorter.sort([0, 1]);
   console.log(sorter.toArray()) // [1, 2]
